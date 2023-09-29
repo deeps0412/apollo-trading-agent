@@ -11,7 +11,7 @@ spec:
     git:
       url: https://github.com/deeps0412/apollo-trading-agent.git
       ref:
-        branch: main
+        branch: master
   build:
     env:
     - name: BP_JVM_VERSION
