@@ -9,7 +9,7 @@ metadata:
 spec:
   source:
     git:
-      url: <https URL for your generated project's Git repository>
+      url: https://github.com/deeps0412/apollo-trading-agent.git
       ref:
         branch: main
   build:
