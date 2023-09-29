@@ -9,6 +9,6 @@ stringData:
   client-authentication-method: client_secret_basic
   authorization-grant-types: client_credentials
   scope: bid
-  client-id: insert-client-id
-  client-secret: insert-client-secret
-  issuer-uri: insert-issuer-uri
+  client-id: sta_apollo
+  client-secret: 981a2860-2a07-4318-b57e-d01f2b3b2081
+  issuer-uri: https://login.sso.az.run.withtanzu.com
